@@ -24,7 +24,7 @@ h1 {
 h2 {
     color:#335;
     font-size: 20px;
-    margin-bottom: 10px;
+    padding: 10px;
 }
 
 nav ul {
@@ -32,7 +32,7 @@ nav ul {
 }
 
 nav li {
-    list-style: none;
+    list-style: armenian;
 }
 
 footer {
