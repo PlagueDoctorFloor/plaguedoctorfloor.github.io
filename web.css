@@ -40,6 +40,11 @@ nav ul li a:hover {
   background-color: #350253;
 }
 
+main {
+    color: black;
+    background-color: #acaeff;
+}
+
 footer {
     background-color: #5d0391;
     padding-top: 10px;
