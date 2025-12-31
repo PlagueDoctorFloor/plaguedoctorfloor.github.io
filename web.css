@@ -43,7 +43,8 @@ nav ul li a:hover {
 main {
     color: black;
     background-color: #acaeff;
-    padding: 20px;
+    margin: 0px;
+    padding: 0px;
 }
 
 footer {
