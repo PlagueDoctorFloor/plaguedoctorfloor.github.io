@@ -1,9 +1,14 @@
 /*Reset some default browser styles*/
 
-body {
+body, h1, h2, p, ul, li {
     margin: 0px;
     padding: 0px;
+}
+
+body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #acaeff;
+    color: black;
 }
 
 header {
@@ -38,13 +43,6 @@ nav ul li a {
 
 nav ul li a:hover {
   background-color: #350253;
-}
-
-main {
-    color: black;
-    background-color: #acaeff;
-    margin: 0px;
-    padding: 0px;
 }
 
 footer {
