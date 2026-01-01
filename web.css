@@ -58,3 +58,14 @@ footer {
 .GameText {
     text-align: center;
 }
+
+.CrochetHeaders {
+    text-align: center; 
+    margin: 2.5% 1% 2.5% 1%; 
+    font-size: 3rem;
+}
+
+.CrochetSubheader {
+    margin: 1% 5% 1% 5%; 
+    font-size: 2rem;
+}
